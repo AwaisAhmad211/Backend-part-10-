@@ -1,0 +1,17 @@
+is part mai ham ny DATABASE ki theory parhi hai
+
+* Types of DBs :
+There are two types of DBs :
+SQL : In SQL data is stored in a managed form. It is stored in the form of tables which consists of row and coloumns.
+NoSQL : In NoSQL data is stored in the form of objects. Therefore, it is simillar to Javascript.In this backend series we will learn about a very famous and efficient NoSQL database whic is called mongoDB.
+
+* mongoDB :
+DATABASE ==> Colections ==> Douments 
+
+
+CODE                ||           DATABASE
+-------------------------------------------------------------
+mongoose.connect    ==>        database
+model create        ==>        collection
+CREATE              ==>        documents
+
